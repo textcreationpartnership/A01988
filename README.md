@@ -32,73 +32,77 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A godly boke wherein is contayned certayne fruitefull, godlye, and necessarye rules, to bee exercise
+
+1. ¶ IOHN GOVVGHE PASTOR to the Paryshe of Sayncte Peters in Cornebull of London, to the Christian Reader.
+
 #####Body#####
 
-1. Of the armour fyt for a christian souldiour.
+1. Certayne holsome, godly, and necessary Rules.
 
-1. The hedde of all wysdome is to know your selfe, & of the two maner of wisdoms heuenly & worldly, the one true & the other immagined.
+    _ Of the armour fyt for a christian souldiour.
 
-1. Of the exterior man and the interior.
+    _ The hedde of all wysdome is to know your selfe, & of the two maner of wisdoms heuenly & worldly, the one true & the other immagined.
 
-1. ¶ Of the thre partes in man the spiryte, the sowle, and the fleshe.
+    _ Of the exterior man and the interior.
 
-1. Certaine generall rules of trewe christianitye.
+    _ ¶ Of the thre partes in man the spiryte, the sowle, and the fleshe.
 
-1. ¶ The fyrst rule of Faythe.
+    _ Certaine generall rules of trewe christianitye.
 
-1. ¶ The seconde Rule not to enter the way of saluation slouth fully or fearefully.
+    _ ¶ The fyrst rule of Faythe.
 
-1. ¶ The thirde Rule prouethe that the waie of Christe is most profitable, besides that it onely leadeth to felicitie.
+    _ ¶ The seconde Rule not to enter the way of saluation slouth fully or fearefully.
 
-1. ¶ The fowrth Rule is that in all oure acts and order of oure liuynge, we prefyxe Christ as the onely marcke wherat we shote.
+    _ ¶ The thirde Rule prouethe that the waie of Christe is most profitable, besides that it onely leadeth to felicitie.
 
-1. ¶ The fyfte Rule to know perfyt and trewe deuocion from vaine and fayned.
+    _ ¶ The fowrth Rule is that in all oure acts and order of oure liuynge, we prefyxe Christ as the onely marcke wherat we shote.
 
-1. ¶ The syxte Rule that we oughte onely to followe the doctryne of Christ, and not to cleue to the more number.
+    _ ¶ The fyfte Rule to know perfyt and trewe deuocion from vaine and fayned.
 
-1. ¶ Opynions mete and conuenient for a christen man.
+    _ ¶ The syxte Rule that we oughte onely to followe the doctryne of Christ, and not to cleue to the more number.
 
-1. ¶ The. vii. Rule howe to labour to obteyne that whiche is nerest to a spirituall lyfe.
+    _ ¶ Opynions mete and conuenient for a christen man.
 
-1. ¶ The eight Rule howe to resist temptacions.
+    _ ¶ The. vii. Rule howe to labour to obteyne that whiche is nerest to a spirituall lyfe.
 
-1. ¶ The. ix. Rule to geue deli gent hede to the assault of oure enemies.
+    _ ¶ The eight Rule howe to resist temptacions.
 
-1. ¶ The. x. rule is to hate those oure ennemies.
+    _ ¶ The. ix. Rule to geue deli gent hede to the assault of oure enemies.
 
-1. ¶ The. xi. rule is what we should do in the time of temptacion, and what after the temp tacion ouercome.
+    _ ¶ The. x. rule is to hate those oure ennemies.
 
-1. ¶ The. xii. rule howe to ouercome our spyrituall enemy with hys owne weapon.
+    _ ¶ The. xi. rule is what we should do in the time of temptacion, and what after the temp tacion ouercome.
 
-1. ¶ The. xiii. Rule howe we ought both to fyghte manfully, and the feld ouercom alwaies ready to resist the nexte onset of our enemy.
+    _ ¶ The. xii. rule howe to ouercome our spyrituall enemy with hys owne weapon.
 
-1. ¶ The. xiiii. Rule howe we oughte to hate al sinnes seme it neuer so smal.
+    _ ¶ The. xiii. Rule howe we ought both to fyghte manfully, and the feld ouercom alwaies ready to resist the nexte onset of our enemy.
 
-1. ¶ The. xv. rule is how we should behaue oure selues, if wee chaunce in this fyght be ouercom of the deuil.
+    _ ¶ The. xiiii. Rule howe we oughte to hate al sinnes seme it neuer so smal.
 
-1. ¶ The. xvi. ruleis of sondry reme dies against temptacions.
+    _ ¶ The. xv. rule is how we should behaue oure selues, if wee chaunce in this fyght be ouercom of the deuil.
 
-1. ¶ The. xvii. Rule howe greate a helpe to resyste synne, is to remember howe detestable a thinge synne is.
+    _ ¶ The. xvi. ruleis of sondry reme dies against temptacions.
 
-1. ¶ The. xviii. Rule to auoyde sin, by and by, comparing the. ii. heades together, videlicet God and the deuyll.
+    _ ¶ The. xvii. Rule howe greate a helpe to resyste synne, is to remember howe detestable a thinge synne is.
 
-1. ¶ The. xix. Rule for the absteining from synne is to haue in oure remembraunce the myseryes of thys worlde.
+    _ ¶ The. xviii. Rule to auoyde sin, by and by, comparing the. ii. heades together, videlicet God and the deuyll.
 
-1. ¶ The. xx. Rule to beware of Impenytencye.
+    _ ¶ The. xix. Rule for the absteining from synne is to haue in oure remembraunce the myseryes of thys worlde.
 
-1. ¶ Here folowith certaine speciall remedies, against certaine speciall vices and sinnes, and first against Lechery.
+    _ ¶ The. xx. Rule to beware of Impenytencye.
 
-1. ¶ A remedy against the mocion of Auarice.
+    _ ¶ Here folowith certaine speciall remedies, against certaine speciall vices and sinnes, and first against Lechery.
 
-1. ¶ A remedy againste the sinne Ambicion, and desyre of honoure.
+    _ ¶ A remedy against the mocion of Auarice.
 
-1. ¶ A Remedy agaynst the sinne of Pryde and Disdaine.
+    _ ¶ A remedy againste the sinne Ambicion, and desyre of honoure.
 
-1. ¶ A remedy againste the sinne of Anger and desyre of reuengeaunce.
+    _ ¶ A Remedy agaynst the sinne of Pryde and Disdaine.
+
+    _ ¶ A remedy againste the sinne of Anger and desyre of reuengeaunce.
 
 #####Back#####
-A godly boke wherein is contayned certayne fruitefull, godlye, and necessarye rules, to bee exercise
+Imprynted at London by VVyllyam Seres dvvellynge at the vveste ende of Paules Churche, at the sygne 
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
